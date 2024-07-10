@@ -1,0 +1,13 @@
+ipython
+pandas
+matplotlib
+transformers
+datasets
+simpletransformers
+--find-links https://download.pytorch.org/whl/cu118
+torch
+--find-links https://download.pytorch.org/whl/cu118
+torchvision
+--find-links https://download.pytorch.org/whl/cu118
+torchaudio
+accelerate
