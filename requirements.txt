@@ -11,3 +11,4 @@ torchvision
 --find-links https://download.pytorch.org/whl/cu118
 torchaudio
 accelerate
+kaggle
