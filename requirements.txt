@@ -12,3 +12,7 @@ torchvision
 torchaudio
 accelerate
 kaggle
+tqdm
+sentence-transformers
+timm
+redis
