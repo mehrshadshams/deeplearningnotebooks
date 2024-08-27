@@ -15,4 +15,5 @@ kaggle
 tqdm
 sentence-transformers
 timm
-redis
+# redis
+elasticsearch

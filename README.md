@@ -1,5 +1,25 @@
 # deeplearningnotebooks
 
+# Setup
+
+1. Download a python distribution, like [Anaconda](https://www.anaconda.com/download/success)
+2. If you are using Anaconda, create a conda environment
+
+```
+conda create -n deeplearning python=3.11
+```
+
+3. Activate environment and install pip
+```
+conda activate deeplearning
+conda install pip
+```
+
+4. Install requirements
+```
+pip install -r requirements.txt
+```
+
 # ElasticSearch
 
 How to start:
