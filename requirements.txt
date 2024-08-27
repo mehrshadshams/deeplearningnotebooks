@@ -1,14 +1,15 @@
 ipython
+ipykernel
 pandas
 matplotlib
 transformers
 datasets
 simpletransformers
---find-links https://download.pytorch.org/whl/cu118
+--find-links https://download.pytorch.org/whl/cu124
 torch
---find-links https://download.pytorch.org/whl/cu118
+--find-links https://download.pytorch.org/whl/cu124
 torchvision
---find-links https://download.pytorch.org/whl/cu118
+--find-links https://download.pytorch.org/whl/cu124
 torchaudio
 accelerate
 kaggle
