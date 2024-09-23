@@ -16,7 +16,9 @@
     conda install pip
     ```
 
-4. Install requirements. Depending the availability of GPU please run either *requirements-cpu.txt* or *requirements-gpu.txt*
+4. (optional) Install [CUDA](https://developer.nvidia.com/cuda-downloads) This will be needed to use GPU
+
+5. Install requirements. Depending the availability of GPU please run either *requirements-cpu.txt* or *requirements-gpu.txt*
 
     ```bash
     pip install -r requirements.txt
