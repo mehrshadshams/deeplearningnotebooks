@@ -27,7 +27,7 @@
 
 ## Setup ElasticSearch
 
-How to start:
+Please make sure [docker](https://docs.docker.com/get-started/get-docker/) is installed. How to start:
 
 1. Run ElasticSearch:
 
